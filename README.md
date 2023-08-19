@@ -6,7 +6,7 @@ View the current time and see which time blocks are in the past, present and fut
 
 
 ## Executing program
-Website link:
+Website link: https://ayhaamb.github.io/schedule-builder/
 
 
 ## Photo of deployed website
